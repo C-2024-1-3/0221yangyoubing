@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\\u5B9E\u9A8C\u4E8C 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84F60494-D483-4A09-AA4C-A9905C11C025}|\u5B9E\u9A8C\u4E8C 1\\\u5B9E\u9A8C\u4E8C 1.vcxproj|C:\\Users\\lenovo\\source\\repos\\\u5B9E\u9A8C\u4E8C 1\\\u5B9E\u9A8C\u4E8C 1\\\u5B9E\u9A8C\u4E8C 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{84F60494-D483-4A09-AA4C-A9905C11C025}|\u5B9E\u9A8C\u4E8C 1\\\u5B9E\u9A8C\u4E8C 1.vcxproj|solutionrelative:\u5B9E\u9A8C\u4E8C 1\\\u5B9E\u9A8C\u4E8C 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u5B9E\u9A8C\u4E8C 1.cpp",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\\u5B9E\u9A8C\u4E8C 1\\\u5B9E\u9A8C\u4E8C 1\\\u5B9E\u9A8C\u4E8C 1.cpp",
+              "RelativeDocumentMoniker": "\u5B9E\u9A8C\u4E8C 1\\\u5B9E\u9A8C\u4E8C 1.cpp",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\\u5B9E\u9A8C\u4E8C 1\\\u5B9E\u9A8C\u4E8C 1\\\u5B9E\u9A8C\u4E8C 1.cpp",
+              "RelativeToolTip": "\u5B9E\u9A8C\u4E8C 1\\\u5B9E\u9A8C\u4E8C 1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T11:29:33.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

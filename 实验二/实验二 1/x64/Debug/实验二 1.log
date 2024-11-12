@@ -1,0 +1,14 @@
+﻿  实验二 1.cpp
+C:\Users\lenovo\source\repos\实验二 1\实验二 1\实验二 1.cpp(25,49): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lenovo\source\repos\实验二 1\实验二 1\实验二 1.cpp(43,9): error C2086: “int a”: 重定义
+C:\Users\lenovo\source\repos\实验二 1\实验二 1\实验二 1.cpp(43,12): error C2086: “int b”: 重定义
+C:\Users\lenovo\source\repos\实验二 1\实验二 1\实验二 1.cpp(44,10): error C2371: “c”: 重定义；不同的基类型
+C:\Users\lenovo\source\repos\实验二 1\实验二 1\实验二 1.cpp(45,14): error C2088: 内置运算符“>>”无法应用于类型为“std::basic_istream<char,std::char_traits<char>>”的操作数
+C:\Users\lenovo\source\repos\实验二 1\实验二 1\实验二 1.cpp(126,18): error C2371: “a”: 重定义；不同的基类型
+C:\Users\lenovo\source\repos\实验二 1\实验二 1\实验二 1.cpp(127,13): error C2088: 内置运算符“>>”无法应用于类型为“std::istream”的操作数
+C:\Users\lenovo\source\repos\实验二 1\实验二 1\实验二 1.cpp(129,22): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\lenovo\source\repos\实验二 1\实验二 1\实验二 1.cpp(140,29): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\lenovo\source\repos\实验二 1\实验二 1\实验二 1.cpp(142,13): error C2371: “i”: 重定义；不同的基类型
+C:\Users\lenovo\source\repos\实验二 1\实验二 1\实验二 1.cpp(142,16): error C2086: “int j”: 重定义
+C:\Users\lenovo\source\repos\实验二 1\实验二 1\实验二 1.cpp(149,14): error C2088: 内置运算符“<<”无法应用于类型为“std::ostream”的操作数
+C:\Users\lenovo\source\repos\实验二 1\实验二 1\实验二 1.cpp(8,1): error C1075: “{”: 未找到匹配令牌
